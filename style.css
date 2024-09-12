@@ -1,0 +1,45 @@
+/** Step one **/
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Roboto:wght@400;700&display=swap');
+
+/** Step two **/
+h1, h2, h3 {
+    font-family: 'Handjet', sans-serif; 
+}
+
+/** Step three **/
+h1 {
+    font-size: 46px; 
+    letter-spacing: 2px; 
+    text-align: center; 
+    color: #993368; 
+    background-color: #88e95f; 
+    padding: 10px; 
+}
+
+/** Step four **/
+body {
+    font-family: 'Roboto', sans-serif; 
+    background-color: #f8f8f8; 
+    color: #4a2a2a; 
+    margin: 0;
+    padding: 0;
+}
+
+/** Step five **/
+p {
+    background-color: #f8f8f8;
+    padding: 15px; 
+    border-radius: 8px; 
+}
+
+p span {
+    color: #0413be; 
+}
+
+/** Step six **/
+h3 {
+    font-size: 24px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    background-color: #d8a8c1; 
+    padding: 5px; 
+}
